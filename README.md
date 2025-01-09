@@ -4,7 +4,7 @@
 
 * [Pixi](https://pixi.sh)
 
-* Configure Git hooks:
+* Configure Git hooks (optional):
 
     ``` shell
     pixi run -- pre-commit-install
